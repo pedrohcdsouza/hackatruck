@@ -46,3 +46,4 @@ O app utiliza uma API pública para fornecer informações úteis, como calendá
 <br>
 <a href="https://github.com/pedrohcdsouza">@pedrohcdsouza</a>: Banco de dados & Integração
 
+
